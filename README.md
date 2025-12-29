@@ -14,38 +14,36 @@ We welcome pull requests and feedback!
 
 ### Day 1
 
-| Time | Topic/Exercise | 
-| :---: | :---: | 
-| 09.00 | Start | 
-| 09.15 | Intro to FP/Scala |
-| 10.00 | IntroExercises | 
-| 10.45 | Morning break | 
-| 11.00 | Intro to ADTs |
-| 11.15 | TypesExercises | 
-| 12.15 | Lunch | 
-| 13.30 | ListExercises |
-| 15.15 | Afternoon break |
-| 15.30 | NullExercises |
-| 16.00 | OptionExercises pt. 1 (Safe constructors) |
-| 16.30 | OptionExercises pt. 2 (first half) | 
-| 17.00 | End | | |
+| Time  |      Topic/Exercise     | Facilitator |
+|:-----:|:-----------------------:| :---: |
+| 10.00 |          Start          |
+| 10.00 |    Intro to FP/Scala    | Jonathan |
+| 10.30 |      IntroExercises     | Jonathan |
+| 11.15 |      Intro to ADTs      | Mo |
+| 11.30 | Morning break / Stand Up |
+| 12.00 |          Lunch          |
+| 13.00 | TypesExercises | Mo |
+| 13.45 | ListExercises | Jonathan |
+| 14.45 | Afternoon break |
+| 15.00 | NullExercises | Mo |
+| 15.30 | OptionExercises pt. 1 (Safe constructors) | Mo |
+| 16.00 | OptionExercises pt. 2 | Mo |
+| 16.30 | End |
 
 ### Day 2
 
-| Time | Topic/Exercise |
-| :---: | :---: | 
-| 09.15 | Intro to Error Handling |
-| 10.00 | OptionExercises pt. 2 (second half) | 
-| 10.30 | Morning break | 
-| 10.45 | OptionExercises pt. 3 | 
-| 11.30 | ExceptionExercises | 
-| 12.15 | Lunch | 
-| 13.15 | Exceptions2EitherExercises | 
-| 14.30 | TryExercises | 
-| 15.00 | Afternoon break | 
-| 15.30 | LogParser | 
-| 16.45 | Wrap up | 
-| 17.00 | End | 
+| Time  |           Topic/Exercise            | Facilitator |
+|:-----:|:-----------------------------------:|:-----------:|
+| 10.00 |        OptionExercises pt. 3        |     Mo      |
+| 10.30 |       Intro to Error Handling       |  Jonathan   |
+| 10.45 |         ExceptionExercises          |  Jonathan   |
+| 11.30 | Morning break / Stand up | |
+| 12.00 |                Lunch                | 
+| 13.00 |     Exceptions2EitherExercises      |  Jonathan   |
+| 14.15 |            TryExercises             |     Mo      |
+| 14.45 |           Afternoon break           | 
+| 15.00 |              LogParser              |  Jonathan   |
+| 16.15 |                 End                 | 
 
 ## Pre-requisites
 
@@ -59,7 +57,7 @@ At a minimum, you need:
 #### 1. Fork or clone this repository
 
 ```
-$ git clone https://github.com/wjlow/intro-to-scala.git
+$ git clone https://github.com/jschoeller-atlassian/intro-to-scala.git
 $ cd intro-to-scala/
 ```
 
