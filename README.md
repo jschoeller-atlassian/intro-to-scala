@@ -14,16 +14,16 @@ We welcome pull requests and feedback!
 
 ### Day 1
 
-| Time  |      Topic/Exercise     | Facilitator |
-|:-----:|:-----------------------:| :---: |
-| 10.00 |          Start          |
-| 10.00 |    Intro to FP/Scala    | Jonathan |
+| Time  |      Topic/Exercise     | Facilitator |                                               Slides                                               |
+|:-----:|:-----------------------:| :---: |:--------------------------------------------------------------------------------------------------:
+| 10.00 |          Start          | |                                                                                                    |
+| 10.00 |    Intro to FP/Scala    | Jonathan | [Slides](https://docs.google.com/presentation/d/1SsyPQxz6Agyd7GG4Wk2u6gak8x5SYXL1xfB7FefNhVs/edit) |
 | 10.30 |      IntroExercises     | Jonathan |
 | 11.15 |      Intro to ADTs      | Mo |
 | 11.30 | Morning break / Stand Up |
 | 12.00 |          Lunch          |
 | 13.00 | TypesExercises | Mo |
-| 13.45 | ListExercises | Jonathan |
+| 13.45 | ListExercises | Jonathan | [Slides](https://docs.google.com/presentation/d/1SHESOoBMfD2pv4kb3jyDxtXiR9djSIUEPN8NiCi--6A/edit) |
 | 14.45 | Afternoon break |
 | 15.00 | NullExercises | Mo |
 | 15.30 | OptionExercises pt. 1 (Safe constructors) | Mo |
@@ -32,10 +32,10 @@ We welcome pull requests and feedback!
 
 ### Day 2
 
-| Time  |           Topic/Exercise            | Facilitator |
-|:-----:|:-----------------------------------:|:-----------:|
+| Time  |           Topic/Exercise            | Facilitator | Slides |
+|:-----:|:-----------------------------------:|:-----------:|:----:|
 | 10.00 |        OptionExercises pt. 3        |     Mo      |
-| 10.30 |       Intro to Error Handling       |  Jonathan   |
+| 10.30 |       Intro to Error Handling       |  Jonathan   | [Slides](https://docs.google.com/presentation/d/1YIsa8eAh9-3ZSLf-iBdvKDXwQat-B7BEWyTvPLvhAYw/edit?usp=sharing) |
 | 10.45 |         ExceptionExercises          |  Jonathan   |
 | 11.30 | Morning break / Stand up | |
 | 12.00 |                Lunch                | 
