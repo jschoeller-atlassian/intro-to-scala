@@ -17,7 +17,7 @@ We welcome pull requests and feedback!
 | Time  |      Topic/Exercise     | Facilitator |                                               Slides                                               |
 |:-----:|:-----------------------:| :---: |:--------------------------------------------------------------------------------------------------:
 | 10.00 |          Start          | |                                                                                                    |
-| 10.00 |    Intro to FP/Scala    | Jonathan | [Slides](https://docs.google.com/presentation/d/1SsyPQxz6Agyd7GG4Wk2u6gak8x5SYXL1xfB7FefNhVs/edit) |
+| 10.00 |    Intro to FP/Scala    | Jonathan | [Slides](https://docs.google.com/presentation/d/1b8PFS62hiFSPwpee6Atg0gyxFQaouKLAtfnfs_U4bec/edit) |
 | 10.30 |      IntroExercises     | Jonathan |
 | 11.15 |      Intro to ADTs      | Mo |
 | 11.30 | Morning break / Stand Up |
@@ -35,7 +35,7 @@ We welcome pull requests and feedback!
 | Time  |           Topic/Exercise            | Facilitator | Slides |
 |:-----:|:-----------------------------------:|:-----------:|:----:|
 | 10.00 |        OptionExercises pt. 3        |     Mo      |
-| 10.30 |       Intro to Error Handling       |  Jonathan   | [Slides](https://docs.google.com/presentation/d/1YIsa8eAh9-3ZSLf-iBdvKDXwQat-B7BEWyTvPLvhAYw/edit?usp=sharing) |
+| 10.30 |       Intro to Error Handling       |  Jonathan   | [Slides](https://docs.google.com/presentation/d/1YIsa8eAh9-3ZSLf-iBdvKDXwQat-B7BEWyTvPLvhAYw/edit) |
 | 10.45 |         ExceptionExercises          |  Jonathan   |
 | 11.30 | Morning break / Stand up | |
 | 12.00 |                Lunch                | 
