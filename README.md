@@ -27,7 +27,7 @@ We welcome pull requests and feedback!
 | 14.45 | Afternoon break |
 | 15.00 | NullExercises | Mo |
 | 15.30 | OptionExercises pt. 1 (Safe constructors) | Mo |
-| 16.00 | OptionExercises pt. 2 | Mo |
+| 16.00 | OptionExercises pt. 2 | Mo | [Slides](https://docs.google.com/presentation/d/1nZGghYSEdOcn-9V5ZPIuiQpHL_lexRksGBz7ldKlYLY/edit)
 | 16.30 | End |
 
 ### Day 2
