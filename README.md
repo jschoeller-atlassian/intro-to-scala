@@ -45,6 +45,12 @@ We welcome pull requests and feedback!
 | 15.00 |              LogParser              |  Jonathan   |
 | 16.15 |                 End                 | 
 
+### Extras (Intermediate)
+
+| Topic | Slides |
+| :--: | :--: |
+ | Implicits | [Slides](https://docs.google.com/presentation/d/1rBmf8Cz3UY3liy2VoI8wUXAsqkrI79ufJh3B_ER0pyo/edit)
+
 ## Pre-requisites
 
 At a minimum, you need:
